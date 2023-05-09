@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin zjs-macbook-pro.wireless-1x.unc.edu 22.4.0 Darwin Kernel Version 22.4.0: Mon Mar  6 21:00:41 PST 2023; root:xnu-8796.101.5~3/RELEASE_ARM64_T8103 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Mar  4 2023 14:02:05)
+CURL:	[/Users/zj/opt/anaconda3/bin/curl] curl 7.84.0 (arm64-apple-darwin20.0.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/zj/.nvm/versions/node/v18.16.0/bin/node] v18.16.0
